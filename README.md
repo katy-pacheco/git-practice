@@ -1,3 +1,3 @@
 # Git Practice
 [Ravn](https://ravn.co)
-![Image](https://en.wikipedia.org/wiki/Raven#/media/File:3782_Common_Raven_in_flight.jpg)
+![Image](https://upload.wikimedia.org/wikipedia/commons/6/6f/Einstein-formal_portrait-35.jpg)
